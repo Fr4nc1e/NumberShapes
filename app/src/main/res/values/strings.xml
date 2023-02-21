@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="hint">Enter a number below to find out if it iss a triangular number, square number, or both</string>
+    <string name="number_shapes">Number Shapes</string>
+</resources>
